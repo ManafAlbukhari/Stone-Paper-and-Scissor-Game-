@@ -8,7 +8,9 @@ A simple console game where the player plays Stone-Paper-Scissor against the com
 Features:
 
 Random computer moves
+
 Tracks rounds and winner
+
 Colored win/lose messages
 
 Tools Used:
